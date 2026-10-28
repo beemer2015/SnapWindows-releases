@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>SnapWindows</title>
+    <link>https://github.com/beemer2015/SnapWindows-releases</link>
+    <description>New versions of SnapWindows</description>
+    <language>en</language>
+    <item>
+      <title>SnapWindows 1.13.0</title>
+      <pubDate>Wed, 28 Oct 2026 23:45:30 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**SnapWindows now updates itself.** Once a day it checks for a new version and offers it, with what is new; it installs only when you choose **Install Update** and then **Install and Relaunch**, and restarts by itself a few seconds later.
+
+- **Check for Updates…** is in the menu and in Settings, which also shows which version you have.
+- A new version does not interrupt you: the menu bar icon gets a small dot, and the menu says **Update to SnapWindows …**.
+- Every version is signed, and SnapWindows installs nothing that is not.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.0/SnapWindows-1.13.0.zip" length="1882817" type="application/octet-stream" sparkle:edSignature="nkILVdexsNWUwqId2k+I6fIznmlV+w10wT8HBzdfGe7x1EiCzWkjzdxD9kKRREbGKF5TW2UMwAgRNjXUFLLxCw=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ar1QRdwfoGyP51rS340OeRfALmZFrPpG5pIZ1U3ISAucmMdZXdhZW07K6dNHVGcmO3rKDqSDM+I/nWeytpSIBg==
+length: 1806
+-->
