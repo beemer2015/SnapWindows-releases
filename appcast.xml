@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.1</title>
+      <pubDate>Mon, 02 Nov 2026 02:52:54 GMT</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**Smoother with browsers and web apps.** Safari, Chrome, Firefox and apps built on Chrome's engine (Claude, ChatGPT, Slack, Notion, VS Code, Spotify) now take their new size at once and then slide into place, instead of being resized through every size on the way. A window playing a video no longer stutters while you put another window beside it.
+
+You can switch this off in **Settings > General** ("Resize browsers and web apps in one step"), or keep one app's full glide with **Glide as usual** in Settings > Apps (which also treats it as usual, like an app not on the list).
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.1/SnapWindows-1.13.1.zip" length="1892454" type="application/octet-stream" sparkle:edSignature="Atsx65ZtdFueKn/Jv+9KRNYV1FbjmNMS8WEko3b1XWmkN2vyiV1e3/gV3Ijc7Tr/ZutoE8UeZ43dfyUI4WOpDw=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.0</title>
       <pubDate>Wed, 28 Oct 2026 23:45:30 GMT</pubDate>
       <sparkle:version>19</sparkle:version>
@@ -22,6 +34,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ar1QRdwfoGyP51rS340OeRfALmZFrPpG5pIZ1U3ISAucmMdZXdhZW07K6dNHVGcmO3rKDqSDM+I/nWeytpSIBg==
-length: 1806
+edSignature: HTBittjJsJc3k0Y1F9i7bwrowrWgdI6p2FDMpvkMJLrGDGQYIuit/5OFB3MrIl05HdFftdZE0L6M/VmdpnJ9AQ==
+length: 3047
 -->
