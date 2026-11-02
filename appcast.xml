@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.2</title>
+      <pubDate>Mon, 02 Nov 2026 05:31:31 GMT</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.13.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**Smooth with every app, not only browsers.** When SnapWindows moves a window that changes size, the window now takes its new size at once and then slides into place, as Claude and Safari have since 1.13.1. Apps that are slow to lay themselves out, such as Messages, no longer stutter or lag on the way.
+
+To change it: **Settings > General > Resize windows** (in one step for every app, for browsers and web apps only, or gradually). To have one app resize gradually, set it to **Resize gradually** in Settings > Apps.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.2/SnapWindows-1.13.2.zip" length="1894277" type="application/octet-stream" sparkle:edSignature="g4aTpwhUj0HCQF6rIygakrVbvRm7m/WV1wQBayVhMfE07Vhn5N9cSRRy4iLErU+cz22QaYprsQQ0GHxWCNF7Bg=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.1</title>
       <pubDate>Mon, 02 Nov 2026 02:52:54 GMT</pubDate>
       <sparkle:version>20</sparkle:version>
@@ -34,6 +46,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: HTBittjJsJc3k0Y1F9i7bwrowrWgdI6p2FDMpvkMJLrGDGQYIuit/5OFB3MrIl05HdFftdZE0L6M/VmdpnJ9AQ==
-length: 3047
+edSignature: zWkhSxCIFtStchegZl8kdf+tCY7QtjjQDjzDBK4zUggQIRgsd7NWj0CWyCT/TwgYH5AGqW06lkjyAMWo7WlJBg==
+length: 4227
 -->
