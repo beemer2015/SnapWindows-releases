@@ -7,6 +7,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.3</title>
+      <pubDate>Sat, 07 Nov 2026 22:18:15 GMT</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.13.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**Snap Assist no longer flickers, or hides the window beside it.** The window you pick now comes forward only once it is in its place, so a full-screen window no longer covers the screen for a moment and then jumps. And only that window comes forward: picking one of Safari's two windows no longer brings the other one along over the window you snapped first.
+
+**Ungroup.** To stop two windows acting as a group, open the SnapWindows menu > Snap groups and choose **Ungroup** for that group.
+
+**⌃⌥C from a half.** A window in a half or a third now goes to the middle of the screen at the size it had before you snapped it, instead of staying a tall strip down the middle.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.3/SnapWindows-1.13.3.zip" length="1917806" type="application/octet-stream" sparkle:edSignature="dnJECfILGs92qlcQxXTiuJcj1YHjtEKZOb2AFsiOlVp7Xc7i2HWuMQrYDby2ceUSDI0dkIoFOJ0X25EqNxdBDA=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.2</title>
       <pubDate>Mon, 02 Nov 2026 05:31:31 GMT</pubDate>
       <sparkle:version>21</sparkle:version>
@@ -46,6 +60,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zWkhSxCIFtStchegZl8kdf+tCY7QtjjQDjzDBK4zUggQIRgsd7NWj0CWyCT/TwgYH5AGqW06lkjyAMWo7WlJBg==
-length: 4227
+edSignature: 1wj4cLKs/chBCDoChkB3jx0ba84vya4cH8m2sUZ89+4HWemHPY1bN0nA20Zkn+1zxZhuqAtfrc+9rXAmBgMaBw==
+length: 5564
 -->
