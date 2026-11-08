@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.4</title>
+      <pubDate>Sun, 08 Nov 2026 16:55:03 GMT</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.13.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**Ungroup from the ⌃⌥G list.** The list of snap groups (⌃⌥G) now has an **Ungroup** button for each group. With the keyboard, highlight a group with ↑ ↓ and press Delete (⌫). You no longer need the menu bar icon to ungroup.
+
+In a window that is in a group, ⌃⌥G brings that group back; press ⌃⌥G again to open the list with that group highlighted.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.4/SnapWindows-1.13.4.zip" length="1924899" type="application/octet-stream" sparkle:edSignature="5PVoWY1QzfSozHmu7pLh8F5PqJ35CnukktOaPPelqu1FajGOUwXvRuCrOxIYJjiMG13Ef7hiletS7Mp/sCt/CA=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.3</title>
       <pubDate>Sat, 07 Nov 2026 22:18:15 GMT</pubDate>
       <sparkle:version>22</sparkle:version>
@@ -60,6 +72,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1wj4cLKs/chBCDoChkB3jx0ba84vya4cH8m2sUZ89+4HWemHPY1bN0nA20Zkn+1zxZhuqAtfrc+9rXAmBgMaBw==
-length: 5564
+edSignature: OKZBIvUrEglv5Nn9lEucWbaO1YLWFMmBp/tE4ALeCaDFZMdjFft14qmdM2lNa/DVdHe6rsPDFEhnrqKVWNHBBw==
+length: 6594
 -->
