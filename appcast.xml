@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.5</title>
+      <pubDate>Sun, 08 Nov 2026 20:47:42 GMT</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.13.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**⌃⌥G always opens the list of snap groups.** If the window you are in belongs to a group, that group is already highlighted: press Return (or click it) to bring it back, or Delete (⌫) to ungroup it. Nothing moves until you choose, and you no longer press ⌃⌥G twice.
+
+Grouping works as before: snap a window to one side, pick another window in Snap Assist, and the two become a group. Until you have one (none are kept after a restart), the list says how to make one.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.5/SnapWindows-1.13.5.zip" length="1924894" type="application/octet-stream" sparkle:edSignature="yzyP+wU1tgFjm/3nR5kDoms2EDj+XnUvbqaj0XfeCwZoeRu0C59QQC4Yv13AC6qriuWHSNks5ZDqOYObkRyXAg=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.4</title>
       <pubDate>Sun, 08 Nov 2026 16:55:03 GMT</pubDate>
       <sparkle:version>23</sparkle:version>
@@ -72,6 +84,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: OKZBIvUrEglv5Nn9lEucWbaO1YLWFMmBp/tE4ALeCaDFZMdjFft14qmdM2lNa/DVdHe6rsPDFEhnrqKVWNHBBw==
-length: 6594
+edSignature: ybq8Wu2m2LgJO8ZHzmy8J/koGpj3JPum9y2r+VuK9g4qrL/S7MTkrqH+TFhhKhkKWtdIAUlwcmYPvdr0EPFKDg==
+length: 7733
 -->
