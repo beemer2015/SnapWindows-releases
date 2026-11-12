@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.6</title>
+      <pubDate>Thu, 12 Nov 2026 03:28:57 GMT</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.13.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**Snapping starts sooner, and snap groups work with apps that will not shrink.** SnapWindows asks a window's app fewer questions before moving it, so a snap starts sooner, most of all while a browser plays a video. Groups with a window that keeps a size of its own (an app's minimum width, such as Proton Mail's) now stay a group: ⌃⌥H, minimizing together and Fill the gap work with them.
+
+Also fixed: ⌃⌥Z after bringing windows back from the Dock, Fill the gap after you move a window yourself, a double click in Snap Assist, and closing the Permissions window opened from Settings. ⌘W and Esc now close Settings. With several displays, a display that came back long ago no longer moves its windows when another display arrives.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.6/SnapWindows-1.13.6.zip" length="1966181" type="application/octet-stream" sparkle:edSignature="PVdBCVeinW4eQ+2aqdE6ae9j7WlCiOXnkL0E0rQvMA4903oRS8ILRNl2yzsV1q7O3cizWX5mM+IJJCUY1OorDQ=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.5</title>
       <pubDate>Sun, 08 Nov 2026 20:47:42 GMT</pubDate>
       <sparkle:version>24</sparkle:version>
@@ -84,6 +96,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ybq8Wu2m2LgJO8ZHzmy8J/koGpj3JPum9y2r+VuK9g4qrL/S7MTkrqH+TFhhKhkKWtdIAUlwcmYPvdr0EPFKDg==
-length: 7733
+edSignature: 1J2YIeppUE9oC6VYM6MvF2KEOgakTPu752iCa+1aTJWAFXa5Harkdn6dsXe+XCwiWo/zdLe27bL57NP17k/+Ag==
+length: 9134
 -->
