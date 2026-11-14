@@ -7,6 +7,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>New versions of SnapWindows</description>
     <language>en</language>
     <item>
+      <title>SnapWindows 1.13.7</title>
+      <pubDate>Sat, 14 Nov 2026 05:08:17 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.13.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[**⌃⌥G leaves full-screen windows where they are, and the desktop is no longer taken for a window.** ⌃⌥G no longer switches to a full-screen app, or to another Desktop, to bring back one window of a group: it brings back the windows that are here and leaves those where they are. A group that is all on another Desktop still comes back there. On the Finder desktop, the snap keys beep instead of opening Snap Assist beside nothing.
+
+Also fixed: a window fitted beside a wide one (such as Proton Mail) takes its room back once the wide one goes; snapping beside Proton Mail no longer waits for its app; a third ⌃⌥H while windows are still going into the Dock; ⌃⌥Z after a layout applied while a window was moving; and a small memory leak. Settings now tells you when another app holds one of your shortcuts for itself.
+]]></description>
+      <enclosure url="https://github.com/beemer2015/SnapWindows-releases/releases/download/v1.13.7/SnapWindows-1.13.7.zip" length="1994235" type="application/octet-stream" sparkle:edSignature="+jk0flw6EmtCi5m45JqMiPIRAijjZJzFrq/2MImUFqRrR78WWME4Ps/RFSZdscN1nW/1DHqyUHWUm9RbAsk7CA=="/>
+    </item>
+    <item>
       <title>SnapWindows 1.13.6</title>
       <pubDate>Thu, 12 Nov 2026 03:28:57 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
@@ -96,6 +108,6 @@ You can switch this off in **Settings > General** ("Resize browsers and web apps
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1J2YIeppUE9oC6VYM6MvF2KEOgakTPu752iCa+1aTJWAFXa5Harkdn6dsXe+XCwiWo/zdLe27bL57NP17k/+Ag==
-length: 9134
+edSignature: ejHMCgOqrBJXiZu1/bgrMbmNrF2zIIKnDpi8YcqjDABGjGX2U9QqUbS2KSZ3MsoCOdWM6hMBFyPEZC5lB62hDQ==
+length: 10628
 -->
